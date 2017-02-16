@@ -1,0 +1,27 @@
+Francis: Que pensez-vous du MCD1 ?
+
+Loïc: Il me va pour l'instant. On décide qui se charge du MLDR et du codage de la base histoire que tout ça
+soit déja compilé d'ici lundi? Non pas que ça risque de changer grand chose au résultat, il n'y a pas 36
+solutions.^^
+
+Francis : Je m'en chargerais bien ! :)
+
+Loïc: Comme tu voudras! :)
+
+Francis: La base est prête.
+- J'ai enlevé la table locataire. Sinon un locataire souhaitant louer un produit devrait se ré-enregistrer comme client. Débile.
+- Ne pensez vous pas que MajoPrix (dans la table Saison) devrait apparaitre dans la "table Majorer"? Cela permettrait 
+  de majorer le prix des appartements individuellement selon la demande de chaque appart et pas seulement en fonction de la saison...
+
+Loïc: Je n'y vois pas d'inconvénient effectivement. Par contre je crois bien que du côté de Hugues la dropbox ne se met pas à jour correctement. Je pourrais à la limite lui relayer tous tes messages par mail mais avec ce genre de méthodes on ne va pas s'en sortir.^^
+
+Francis: Ok, on continuera par mail. J'attends l'avis d'Hugues pour effectuer le changement.
+
+Loïc: bien noté. N'oublie pas que tu peux voir son adresse dans la section équipe du la Dropbox en ligne si jamais
+tu l'as pas.
+
+Francis: Ok, je m'occupe du mail.
+
+Hugues: Viens de recevoir le mail. Je valide le changement. Quelque chose d'autre que je pourrais faire?
+
+Francis: Pour demain, je pense qu'on est prêt. Maintenant c'est au tour de html, php et bootsrap...
